@@ -12,12 +12,15 @@
     "@next/eslint-plugin-next": "14.0.1",
     "next": "14.0.1",
     "react": "18",
-    "react-dom": "18"
+    "react-dom": "18",
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
     "@babel/preset-react": "^7.24.7",
+    "@types/node": "20.14.9",
+    "@types/react": "18.3.3",
     "eslint": "^8.57.0",
     "eslint-config-next": "^14.0.1",
     "eslint-plugin-react": "^7.34.3"
